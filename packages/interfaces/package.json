@@ -1,0 +1,8 @@
+{
+  "name": "@mono/interfaces",
+  "version": "1.0.0",
+  "main": "index.d.ts",
+  "author": "Jamie Haywood",
+  "license": "MIT",
+  "private": true
+}
